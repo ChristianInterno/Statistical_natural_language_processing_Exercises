@@ -5,4 +5,8 @@ Some Script for Statistical natural language processing (University of Bielefiel
 
 2)In this exercise sheet we will solve the task of named-entity recognition by using HMMs and Implement the Viterbi algorithm.
 
-3)Create your own maximum entropy model 
+3)Create your own maximum entropy model.
+
+4)l create your own linear chain conditional random field.
+
+5)Implement the LDA Gibbs sampling algorithm.
